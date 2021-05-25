@@ -1,0 +1,12 @@
+D:\Microsoft VS Projects\TBD_GYM\bin\Debug\Database_GYM.mdf
+D:\Microsoft VS Projects\TBD_GYM\bin\Debug\Database_GYM_log.ldf
+D:\Microsoft VS Projects\TBD_GYM\bin\Debug\TBD_GYM.exe.config
+D:\Microsoft VS Projects\TBD_GYM\bin\Debug\TBD_GYM.exe
+D:\Microsoft VS Projects\TBD_GYM\bin\Debug\TBD_GYM.pdb
+D:\Microsoft VS Projects\TBD_GYM\obj\Debug\TBD_GYM.csprojAssemblyReference.cache
+D:\Microsoft VS Projects\TBD_GYM\obj\Debug\TBD_GYM.Properties.Resources.resources
+D:\Microsoft VS Projects\TBD_GYM\obj\Debug\TBD_GYM.csproj.GenerateResource.cache
+D:\Microsoft VS Projects\TBD_GYM\obj\Debug\TBD_GYM.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Projects\TBD_GYM\obj\Debug\TBD_GYM.exe
+D:\Microsoft VS Projects\TBD_GYM\obj\Debug\TBD_GYM.pdb
+D:\Microsoft VS Projects\TBD_GYM\obj\Debug\TBD_GYM.Form1.resources
